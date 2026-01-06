@@ -1,56 +1,31 @@
 # Impressum
 
-## Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 DDG
 
-**Pack & Budget**
-
-Tennstedt Software GmbH  
-Wolfgang-Knabe-Str. 13  
-16321 Bernau bei Berlin  
-Deutschland
-
----
-
-## Vertreten durch
-
-Tom Tennstedt
+Philip Nörenberg  
+Holunderweg 17 
+21614 Buxtehude
 
 ---
 
 ## Kontakt
 
 E-Mail: feedback@ttdeveloped.com  
-Website: https://ttdeveloped.com
 
 ---
 
-## Registereintrag
+## Verantwortlich für den Inhalt nach § 18 Abs.2 MStV
 
-Eintragung im Handelsregister  
-Registergericht: Amtsgericht Frankfurt (Oder)  
-Registernummer: HRB 20194 FF
-
----
-
-## Umsatzsteuer
-
-Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:  
-**DE363601559**
-
----
-
-## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
-
-Tom Tennstedt  
-Wolfgang-Knabe-Str. 13  
-16321 Bernau bei Berlin
+Philip Nörenberg  
+Holunderweg 17 
+21614 Buxtehude
 
 ---
 
 ## Haftung für Inhalte
 
-Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.  
-Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen.
+Als Diensteanbieter sind wir gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.  
+Nach §§ 8 bis 10 DDG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen.
 
 ---
 
@@ -68,5 +43,5 @@ Downloads und Kopien sind nur für den privaten, nicht kommerziellen Gebrauch ge
 
 ---
 
-**Stand:** Januar 2025
+**Stand:** Januar 2026
 
