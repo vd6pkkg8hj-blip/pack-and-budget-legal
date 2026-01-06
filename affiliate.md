@@ -30,5 +30,5 @@ und **keinen Einfluss auf deine Budgets, Ausgaben oder Daten**.
 
 ---
 
-**Stand:** Januar 2025
+**Stand:** Januar 2026
 
